@@ -1,0 +1,1 @@
+This is a second assignment of web API where we have to upload a file in local database using ejs, multer and json. It is a simple assignment which is finished and pushed into a github. 
